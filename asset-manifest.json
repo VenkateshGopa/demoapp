@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/VenkateshGopa/demo/static/css/main.d1282c8f.chunk.css",
+    "main.js": "/VenkateshGopa/demo/static/js/main.beb21e51.chunk.js",
+    "main.js.map": "/VenkateshGopa/demo/static/js/main.beb21e51.chunk.js.map",
+    "runtime-main.js": "/VenkateshGopa/demo/static/js/runtime-main.2f7d985d.js",
+    "runtime-main.js.map": "/VenkateshGopa/demo/static/js/runtime-main.2f7d985d.js.map",
+    "static/js/2.9dc9ee05.chunk.js": "/VenkateshGopa/demo/static/js/2.9dc9ee05.chunk.js",
+    "static/js/2.9dc9ee05.chunk.js.map": "/VenkateshGopa/demo/static/js/2.9dc9ee05.chunk.js.map",
+    "static/js/3.b13576a2.chunk.js": "/VenkateshGopa/demo/static/js/3.b13576a2.chunk.js",
+    "static/js/3.b13576a2.chunk.js.map": "/VenkateshGopa/demo/static/js/3.b13576a2.chunk.js.map",
+    "index.html": "/VenkateshGopa/demo/index.html",
+    "static/css/main.d1282c8f.chunk.css.map": "/VenkateshGopa/demo/static/css/main.d1282c8f.chunk.css.map",
+    "static/js/2.9dc9ee05.chunk.js.LICENSE.txt": "/VenkateshGopa/demo/static/js/2.9dc9ee05.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2f7d985d.js",
+    "static/js/2.9dc9ee05.chunk.js",
+    "static/css/main.d1282c8f.chunk.css",
+    "static/js/main.beb21e51.chunk.js"
+  ]
+}
